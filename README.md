@@ -1,8 +1,7 @@
-# React + Vite
+# Simple job-listing board - builded with React, using Vite and Tailwind
+- Functionalities: Create new job, read job offers from local server, basic routing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the project:
+- first run server (json-server):npm run server
+- second run project: npm run dev
+  
